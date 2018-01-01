@@ -329,6 +329,8 @@ jQuery(function ($) {
     (function () {
         var myLatlng = new google.maps.LatLng(22.3592646, 91.8010708);
 
+
+
             var styles = [
                 {
                     featureType: "landscape",
@@ -393,6 +395,9 @@ jQuery(function ($) {
 
 
 });
+
+// <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBYxeqs1M3CfMWdCTteNdVmVU7NBkvFHTU&callback=initMap"
+//  type="text/javascript"></script>
 
 
 
