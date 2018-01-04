@@ -1,7 +1,7 @@
 /*
-Theme Name: IAMX
-Author: Trendy Theme
-Author URL: trendytheme.net
+Theme Name: Istiyak Amin 
+Author: Istiyak Amin
+Author URL: istiyakamin.com
 */
 
 /*
